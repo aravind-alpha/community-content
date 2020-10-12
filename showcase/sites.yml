@@ -597,3 +597,13 @@
     - Angular
   made_by: Lucas Neves Pereira
   made_by_url: https://lucasnp.com
+- title: Aravind Portfolio 
+  url: https://aravind.netlify.com/
+  description: Personal Portfolio and Blog site
+  categories:
+    - Portfolio and Blog site
+  frontend:
+    - Gatsby.js
+    - React.js
+  made_by: Aravind
+  made_by_url: https://twitter.com/aravindviewz
